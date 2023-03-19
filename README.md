@@ -37,3 +37,8 @@ I uploaded the presentation that we did in oreder for you to see the demo
 ## Authors
 
 - [@DanaOG](https://www.github.com/DanaOG)
+- Samar Alqahtani
+- Rana Aboulsamh
+- Nouf alshahrani
+- Sara Alsaber
+- Wadha Iberahim 
