@@ -29,7 +29,10 @@ reconnaissance tool used in Kali Linux
 
 - Domain Name (DNS) Lookup Options 
 
+## presentation
 
+I uploaded the presentation that we did in oreder for you to see the demo ;)
+[Press here](https://github.com/DanaOG/TaurusReco/blob/main/Python%20Project%20Presentation%20.pptx)
 
 ## Authors
 
